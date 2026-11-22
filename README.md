@@ -1,4 +1,4 @@
-<img width="1000" height="841" alt="image" src="https://github.com/user-attachments/assets/b742ee38-0f8d-4316-b535-f4653daa04f9" /><img width="696" height="228" alt="image" src="https://github.com/user-attachments/assets/dc034617-7aa7-4644-979b-eae3cd3c26c9" />
+<img width="696" height="228" alt="image" src="https://github.com/user-attachments/assets/dc034617-7aa7-4644-979b-eae3cd3c26c9" />
 
 A robot swarm project. Raspberry Pi robots use a camera and a vision-language model (VLM) to recognize where they are in a room, and drive with a web UI or WASD keys.
 
